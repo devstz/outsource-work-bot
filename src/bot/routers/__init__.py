@@ -1,0 +1,4 @@
+from .user_handlers import UserHandlersRouter
+from .auth_user_handlers import AuthUserHandlersRouter
+from .admin_handlers import AdminHandlersRouter
+from .auth_admin_handlers import AuthAdminHandlersRouter
